@@ -1,0 +1,8 @@
+user,email,projectName,mainRepository,importedRepositories
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,WineQualityProject,https://github.com/ddl-tjtolulope/wine-quality-workshop.git,
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,WineTestProject-template,https://github.com/ddl-tjtolulope/WineTJProject-template.git,
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,TJ-Test-Template,https://github.com/ddl-tjtolulope/testing-template-new.git,
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,Test-Domino-AI,https://github.com/ddl-tjtolulope/domino-ai-flows,
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,TJBMS-template,https://github.enterprise.com/ddl-tjtolulope/TJBMS-template.git,
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,TJBMS-Project,https://github.com/ddl-tjtolulope/testing-template-bms.git,
+integration-test integration-test,test-notifs+integration-test@dominodatalab.com,test-github-change,https://github.com/ddl-tjtolulope/testgithub.git,

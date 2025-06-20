@@ -7,7 +7,7 @@ from flytekitplugins.domino.artifact import Artifact, DATA, MODEL, REPORT
 
 # As this is considered a PROD Flow definition, we set use_project_defaults_for_omitted to False 
 # and explictly set every required parameter in the task defintion to ensure reproducability.
-environment_name="6.0 Domino Standard Environment Py3.10 R4.4"
+environment_name="Domino Standard Environment Py3.10 R4.4"
 environment_revision_id="6732709a37394436a080d8ac"
 GitRef_type="branches"
 GitRef_value="main"
